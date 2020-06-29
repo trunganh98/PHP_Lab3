@@ -1,0 +1,4 @@
+<?php
+    $varl = 21-4*4;
+    echo "The result of 21-4*4 is $varl.";
+?>
